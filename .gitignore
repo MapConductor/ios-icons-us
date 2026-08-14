@@ -1,0 +1,3 @@
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+.DS_Store
