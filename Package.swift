@@ -5,7 +5,7 @@ import PackageDescription
 let usingLocalIcons = FileManager.default.fileExists(atPath: "../ios-icons/Package.swift")
 let iconsDependency: Package.Dependency = usingLocalIcons
     ? .package(path: "../ios-icons")
-    : .package(url: "https://github.com/MapConductor/ios-icons", from: "0.1.0")
+    : .package(url: "https://github.com/MapConductor/ios-icons", branch: "0.2.0-2")
 
 let package = Package(
     name: "ios-icons-us",
