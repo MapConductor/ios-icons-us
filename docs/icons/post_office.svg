@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img">
+  <title>United States post office</title>
+  <rect x="0.5" y="0.5" width="31" height="31" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+  <path d="M12 2 L22 7 L2 7 Z M3 9 L21 9 L21 12 L3 12 Z M4 12 L7 12 L7 19 L4 19 Z M9 12 L12 12 L12 19 L9 19 Z M14 12 L17 12 L17 19 L14 19 Z M19 12 L21 12 L21 19 L19 19 Z M2 19 L22 19 L22 22 L2 22 Z" transform="translate(4 4)" fill="#0f172a"/>
+</svg>
